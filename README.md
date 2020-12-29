@@ -1,2 +1,1 @@
-# lVisualScripting
- Visual scripting (Bolt) example for Naninovel visual novel engine
+Setup and usage examples: https://naninovel.com/guide/visual-scripting
