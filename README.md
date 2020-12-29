@@ -1,4 +1,4 @@
-An example on using visual scripting (Bolt) Unity package with [Naninovel visual novel engine](https://naninovel.com/).
+An example on using [visual scripting](https://docs.unity3d.com/Packages/com.unity.visualscripting@latest/) (Bolt) Unity package with [Naninovel visual novel engine](https://naninovel.com/).
 
 ![](https://i.gyazo.com/505b019b76d568e06788b505040b36f1.png)
 
