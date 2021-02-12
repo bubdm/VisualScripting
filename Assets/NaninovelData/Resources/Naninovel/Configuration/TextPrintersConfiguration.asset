@@ -15,8 +15,8 @@ MonoBehaviour:
   DefaultEasing: 0
   AutoShowOnModify: 0
   SceneOrigin: {x: 0.5, y: 0}
-  ZOffset: 100
-  ZStep: 0.1
+  ZOffset: 0
+  ZStep: 0
   DefaultPrinterId: Wide
   DefaultBaseRevealSpeed: 0.5
   DefaultBaseAutoDelay: 0.5
@@ -33,7 +33,7 @@ MonoBehaviour:
         Culture=neutral, PublicKeyToken=null
       - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
         Culture=neutral, PublicKeyToken=null
-    guid: 06db59ee-d8d5-4335-bf9d-07de1ea1e6d7
+    guid: 61adc31b-0636-41aa-adb7-6705d41215cc
     customData:
       id: 0
     Pivot: {x: 0.5, y: 0.5}
@@ -73,7 +73,7 @@ MonoBehaviour:
           Culture=neutral, PublicKeyToken=null
         - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      guid: f6bbbd73-a380-40a5-b9d1-f7414c008b83
+      guid: 4ae7ac30-865f-4b63-afa6-bd64278b7b5c
       customData:
         id: 0
       Pivot: {x: 0.5, y: 0.5}
@@ -101,7 +101,7 @@ MonoBehaviour:
           Culture=neutral, PublicKeyToken=null
         - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      guid: f5f2992d-bcb2-49d3-909a-8a6aa612794d
+      guid: 9703725e-60d5-4ee3-9af2-20f9c72473b5
       customData:
         id: 0
       Pivot: {x: 0.5, y: 0.5}
@@ -129,7 +129,7 @@ MonoBehaviour:
           Culture=neutral, PublicKeyToken=null
         - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      guid: 433e0e6f-8fe2-4846-b6d0-34b87f2b6b3e
+      guid: 0cccc43a-4dd8-4082-8646-2c8e5bba202e
       customData:
         id: 0
       Pivot: {x: 0.5, y: 0.5}
@@ -157,7 +157,7 @@ MonoBehaviour:
           Culture=neutral, PublicKeyToken=null
         - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      guid: 2713c659-6869-46eb-85cb-9c13ff410cec
+      guid: 5b86b9c6-0849-418b-b7fa-58910a77468f
       customData:
         id: 0
       Pivot: {x: 0.5, y: 0.5}
@@ -185,7 +185,7 @@ MonoBehaviour:
           Culture=neutral, PublicKeyToken=null
         - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      guid: cf0980e2-7e71-4903-a77b-a3c79806ce32
+      guid: 631a69aa-8171-4b5d-823b-b752eeaaef5e
       customData:
         id: 0
       Pivot: {x: 0.5, y: 0.5}
@@ -213,7 +213,7 @@ MonoBehaviour:
           Culture=neutral, PublicKeyToken=null
         - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      guid: fba59a54-4144-443b-8279-4e36bdb12ebd
+      guid: 86e7ab03-6fbe-4a9a-bbe1-6eb23b954b4f
       customData:
         id: 0
       Pivot: {x: 0.5, y: 0.5}
@@ -241,7 +241,7 @@ MonoBehaviour:
           Culture=neutral, PublicKeyToken=null
         - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      guid: 4297ece5-dc44-47c9-972b-ad25b8fcae83
+      guid: cc2688d6-b7a2-4e68-ae84-fe35436fd1c7
       customData:
         id: 0
       Pivot: {x: 0.5, y: 0.5}
@@ -269,7 +269,7 @@ MonoBehaviour:
           Culture=neutral, PublicKeyToken=null
         - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      guid: e3cef79a-ac61-4315-9ddc-504bd61c0165
+      guid: 5792dcd4-8d77-4ef3-8677-a3a2810112bf
       customData:
         id: 0
       Pivot: {x: 0.5, y: 0.5}
@@ -297,7 +297,7 @@ MonoBehaviour:
           Culture=neutral, PublicKeyToken=null
         - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      guid: 23bede93-4199-4740-8486-aec9a64a325c
+      guid: 7e5410e9-964e-48d8-89a3-c24de1a66fb1
       customData:
         id: 0
       Pivot: {x: 0.5, y: 0.5}

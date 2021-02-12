@@ -29,7 +29,7 @@ MonoBehaviour:
         Culture=neutral, PublicKeyToken=null
       - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
         Culture=neutral, PublicKeyToken=null
-    guid: 83de7c13-375b-40fb-9266-6d4c478d50d5
+    guid: 6d0bbd22-aa3e-49b6-993d-2a53c9d47e12
     customData:
       id: 0
     Pivot: {x: 0.5, y: 0}
@@ -46,8 +46,8 @@ MonoBehaviour:
     MessageColor: {r: 1, g: 1, b: 1, a: 1}
     HighlightWhenSpeaking: 0
     HighlightCharacterCount: 0
-    SpeakingTint: {r: 1, g: 1, b: 1, a: 1}
-    NotSpeakingTint: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    SpeakingPose: 
+    NotSpeakingPose: 
     PlaceOnTop: 1
     HighlightDuration: 0.35
     HighlightEasing: 1
@@ -70,7 +70,7 @@ MonoBehaviour:
           Culture=neutral, PublicKeyToken=null
         - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      guid: bba8cebf-76a6-41fb-a6e9-f8a4d2bed907
+      guid: f90f259c-ba43-4c0a-921e-32fcde50c519
       customData:
         id: 0
       Pivot: {x: 0.5, y: 0}
@@ -83,12 +83,12 @@ MonoBehaviour:
       BakedLookDirection: 1
       DisplayName: Kohaku
       UseCharacterColor: 1
-      NameColor: {r: 1, g: 0.7287828, b: 0, a: 1}
-      MessageColor: {r: 1, g: 0.9451165, b: 0.7971698, a: 1}
+      NameColor: {r: 1, g: 0.7401557, b: 0, a: 1}
+      MessageColor: {r: 1, g: 0.9475028, b: 0.7971698, a: 1}
       HighlightWhenSpeaking: 0
       HighlightCharacterCount: 0
-      SpeakingTint: {r: 1, g: 1, b: 1, a: 1}
-      NotSpeakingTint: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+      SpeakingPose: 
+      NotSpeakingPose: 
       PlaceOnTop: 1
       HighlightDuration: 0.35
       HighlightEasing: 1
@@ -106,7 +106,7 @@ MonoBehaviour:
           Culture=neutral, PublicKeyToken=null
         - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      guid: fa86c789-626b-4a02-89d5-07fae59be710
+      guid: 96ed7e6f-d05b-4618-92f6-119f882bbc4a
       customData:
         id: 0
       Pivot: {x: 0.5, y: 0}
@@ -119,12 +119,12 @@ MonoBehaviour:
       BakedLookDirection: 1
       DisplayName: Nani-kun
       UseCharacterColor: 1
-      NameColor: {r: 0, g: 0.74239993, b: 1, a: 1}
-      MessageColor: {r: 0.9103774, g: 0.97680354, b: 1, a: 1}
+      NameColor: {r: 0, g: 0.7815788, b: 1, a: 1}
+      MessageColor: {r: 0.8443396, g: 0.9658158, b: 1, a: 1}
       HighlightWhenSpeaking: 0
       HighlightCharacterCount: 0
-      SpeakingTint: {r: 1, g: 1, b: 1, a: 1}
-      NotSpeakingTint: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+      SpeakingPose: 
+      NotSpeakingPose: 
       PlaceOnTop: 1
       HighlightDuration: 0.35
       HighlightEasing: 1

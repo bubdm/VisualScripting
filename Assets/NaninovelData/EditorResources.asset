@@ -13,57 +13,57 @@ MonoBehaviour:
   m_Name: EditorResources
   m_EditorClassIdentifier: 
   resourceCategories:
-  - Id: TextPrinters/f6bbbd73-a380-40a5-b9d1-f7414c008b83
+  - Id: TextPrinters/4ae7ac30-865f-4b63-afa6-bd64278b7b5c
     Resources:
     - name: Dialogue
       pathPrefix: TextPrinters
       guid: 1bc08ccd31adff6439e97161aa6e1d8b
-  - Id: TextPrinters/f5f2992d-bcb2-49d3-909a-8a6aa612794d
+  - Id: TextPrinters/9703725e-60d5-4ee3-9af2-20f9c72473b5
     Resources:
     - name: Fullscreen
       pathPrefix: TextPrinters
       guid: c87cebd3f0d4f174789cd351ce9591c4
-  - Id: TextPrinters/433e0e6f-8fe2-4846-b6d0-34b87f2b6b3e
+  - Id: TextPrinters/0cccc43a-4dd8-4082-8646-2c8e5bba202e
     Resources:
     - name: Wide
       pathPrefix: TextPrinters
       guid: 781828b806deb1e4cbf50ef9de41da10
-  - Id: TextPrinters/2713c659-6869-46eb-85cb-9c13ff410cec
+  - Id: TextPrinters/5b86b9c6-0849-418b-b7fa-58910a77468f
     Resources:
     - name: Chat
       pathPrefix: TextPrinters
       guid: 0126b92e4ff0f564aaa7a38eae3ef6e7
-  - Id: TextPrinters/cf0980e2-7e71-4903-a77b-a3c79806ce32
+  - Id: TextPrinters/631a69aa-8171-4b5d-823b-b752eeaaef5e
     Resources:
     - name: Bubble
       pathPrefix: TextPrinters
       guid: b47d9659b2be5ee4e95a776f213c9d4b
-  - Id: TextPrinters/fba59a54-4144-443b-8279-4e36bdb12ebd
+  - Id: TextPrinters/86e7ab03-6fbe-4a9a-bbe1-6eb23b954b4f
     Resources:
     - name: TMProDialogue
       pathPrefix: TextPrinters
       guid: 5838611042eaced44954639c4ea4d81e
-  - Id: TextPrinters/4297ece5-dc44-47c9-972b-ad25b8fcae83
+  - Id: TextPrinters/cc2688d6-b7a2-4e68-ae84-fe35436fd1c7
     Resources:
     - name: TMProFullscreen
       pathPrefix: TextPrinters
       guid: a2aaa417785eeca409e78c404f333ee5
-  - Id: TextPrinters/e3cef79a-ac61-4315-9ddc-504bd61c0165
+  - Id: TextPrinters/5792dcd4-8d77-4ef3-8677-a3a2810112bf
     Resources:
     - name: TMProWide
       pathPrefix: TextPrinters
       guid: 7860ef40eae6a3341be02586f7edd980
-  - Id: TextPrinters/23bede93-4199-4740-8486-aec9a64a325c
+  - Id: TextPrinters/7e5410e9-964e-48d8-89a3-c24de1a66fb1
     Resources:
     - name: TMProBubble
       pathPrefix: TextPrinters
       guid: 18cfa78b5fc89b745ba69d51a6a8629a
-  - Id: ChoiceHandlers/453d5df4-4ef0-48c7-950b-4af53bcc903e
+  - Id: ChoiceHandlers/7b41cfad-10b3-421f-bf6b-070d322ea6e2
     Resources:
     - name: ButtonList
       pathPrefix: ChoiceHandlers
       guid: 1f6aa29000e839c409e6a9c0704adc96
-  - Id: ChoiceHandlers/a6daad99-ef39-4b1d-91ee-46fe5162e13c
+  - Id: ChoiceHandlers/d1fd5b06-78ce-493d-8c23-c1bc257e64ec
     Resources:
     - name: ButtonArea
       pathPrefix: ChoiceHandlers
@@ -100,6 +100,9 @@ MonoBehaviour:
     - name: SunShafts
       pathPrefix: Spawn
       guid: c4bf810b9b6cc9f44a58fd670678ded4
+    - name: Blur
+      pathPrefix: Spawn
+      guid: e466d9326b30a4b49a3dad428b4d9968
   - Id: UI
     Resources:
     - name: ClickThroughPanel
@@ -150,6 +153,9 @@ MonoBehaviour:
     - name: PauseUI
       pathPrefix: UI
       guid: 480f5db62ea305c46b89a86496d2a0c9
+    - name: ToastUI
+      pathPrefix: UI
+      guid: dd85ce99288c2f8488447fa511b1c0d6
   - Id: Scripts
     Resources:
     - name: Script001
@@ -158,18 +164,7 @@ MonoBehaviour:
     - name: Script002
       pathPrefix: Scripts
       guid: 95a7622f0f0bdb0409a2ff423b78049f
-  - Id: Backgrounds/d9118ad6-865e-4589-9e0c-63503f5920ca
-    Resources:
-    - name: Beach
-      pathPrefix: Backgrounds/MainBackground
-      guid: 7abd19485e14ecd4584ad3a3122b8553
-    - name: Rain
-      pathPrefix: Backgrounds/MainBackground
-      guid: 44bad6285282023448cc996c68d2a5a5
-    - name: Snow
-      pathPrefix: Backgrounds/MainBackground
-      guid: 079732e171579fc4594b2bb000405c0c
-  - Id: Characters/bba8cebf-76a6-41fb-a6e9-f8a4d2bed907
+  - Id: Characters/f90f259c-ba43-4c0a-921e-32fcde50c519
     Resources:
     - name: Angry
       pathPrefix: Characters/k
@@ -189,7 +184,7 @@ MonoBehaviour:
     - name: Surprise
       pathPrefix: Characters/k
       guid: 8a05c81015a4b214c87ee73dcd1fac84
-  - Id: Characters/fa86c789-626b-4a02-89d5-07fae59be710
+  - Id: Characters/96ed7e6f-d05b-4618-92f6-119f882bbc4a
     Resources:
     - name: Confidence
       pathPrefix: Characters/n
@@ -206,6 +201,17 @@ MonoBehaviour:
     - name: Surprise
       pathPrefix: Characters/n
       guid: 3ce9674d67f8afa48853930cc7804043
+  - Id: Backgrounds/44add853-102f-4e70-af75-5449460c9a52
+    Resources:
+    - name: Beach
+      pathPrefix: Backgrounds/MainBackground
+      guid: 7abd19485e14ecd4584ad3a3122b8553
+    - name: Rain
+      pathPrefix: Backgrounds/MainBackground
+      guid: 44bad6285282023448cc996c68d2a5a5
+    - name: Snow
+      pathPrefix: Backgrounds/MainBackground
+      guid: 079732e171579fc4594b2bb000405c0c
   - Id: CharacterAvatars
     Resources:
     - name: k/Default
