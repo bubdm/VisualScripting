@@ -5,6 +5,7 @@
 /[Bb]uilds/
 /.idea/
 .gradle*
+/UserSettings/
 /Assets/AssetStoreTools*
 /Assets/ThirdParty/Naninovel*
 /Assets/NaninovelData/Saves*
