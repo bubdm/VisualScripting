@@ -1,6 +1,4 @@
 using Naninovel;
-using Naninovel.Commands;
-using UniRx.Async;
 using Unity.VisualScripting;
 using UnityEngine;
 
@@ -13,8 +11,8 @@ public class BroadcastBoltEvent : Command
     public StringParameter EventName;
     [ParameterAlias("args")]
     public StringListParameter Arguments;
-    
-    public override UniTask ExecuteAsync (CancellationToken cancellationToken = default)
+
+    public override UniTask ExecuteAsync (AsyncToken asyncToken = default)
     {
         var gameObject = GameObject.Find(GameObjectName);
         if (gameObject == null)
@@ -22,9 +20,9 @@ public class BroadcastBoltEvent : Command
             Debug.LogError($"Failed to broadcast `{EventName}` bolt event: `{GameObjectName}` game object is not found.");
             return UniTask.CompletedTask;
         }
-        
+
         CustomEvent.Trigger(gameObject, EventName, Arguments);
-        
+
         return UniTask.CompletedTask;
     }
 }
